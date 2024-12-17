@@ -9,6 +9,19 @@
 ![banner](TheBridge/datascientist.png)
 ![banner](TheBridge/deeplearning.png)
 ![banner](TheBridge/eda.png)
+![banner](TheBridge/github.png)
+![banner](TheBridge/keras.png)
+![banner](TheBridge/machinelearning.png)
+![banner](TheBridge/maths.png)
+![banner](TheBridge/ml.png)
+![banner](TheBridge/mlops.png)
+![banner](TheBridge/nlp.png)
+![banner](TheBridge/opp.png)
+![banner](TheBridge/pyhton.png)
+![banner](TheBridge/sql.png)
+![banner](TheBridge/tableau.png)
+![banner](TheBridge/visualization.png)
+![banner](TheBridge/wrangling.png)
 
 !--
 **JavierRodriguezFontiveros/JavierRodriguezFontiveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
