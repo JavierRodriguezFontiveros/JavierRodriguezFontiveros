@@ -1,12 +1,7 @@
-## Hi there 👋
-
 ![banner](banner.png)
 
+# Kaggle Badges:
 ![banner](Kaggle/badges.png)
-
-
-
-
 
 # The Bridge DataScience Bootcamp's Badges:
 ![agile](TheBridge/agile.png)
@@ -28,10 +23,16 @@
 ![visual](TheBridge/visualization.png)
 ![wr](TheBridge/wrangling.png)
 
-## Proyectos:
+## Repositorios:
 
 [![Chef Agent](https://img.shields.io/badge/Chef%20Agent-green?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/GEN_IA_CHEF_AGENT)
 [![Chat Bot](https://img.shields.io/badge/Chat%20Bot-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/kgl_competitions_ML)
+[![Chat Bot](https://img.shields.io/badge/Chat%20Bot-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)
+[![Chat Bot](https://img.shields.io/badge/Chat%20Bot-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)
+[![Chat Bot](https://img.shields.io/badge/Chat%20Bot-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)
+
+## Tecnologías Usadas:
 
 
 !--
