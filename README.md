@@ -4,11 +4,11 @@
 
 ![banner](Kaggle/badges.png)
 
-![Static Badge](https://img.shields.io/badge/Proyecto%201)
-[![Chef Agent](https://img.shields.io/badge/Chef%20Agent-blue?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/GEN_IA_CHEF_AGENT)
 
 
 
+
+# The Bridge DataScience Bootcamp:
 ![agile](TheBridge/agile.png)
 ![analyst](TheBridge/analyst.png)
 ![dt](TheBridge/datascientist.png)
@@ -28,6 +28,9 @@
 ![visual](TheBridge/visualization.png)
 ![wr](TheBridge/wrangling.png)
 
+## Proyectos:
+
+[![Chef Agent](https://img.shields.io/badge/Chef%20Agent-green?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/GEN_IA_CHEF_AGENT)
 !--
 **JavierRodriguezFontiveros/JavierRodriguezFontiveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
