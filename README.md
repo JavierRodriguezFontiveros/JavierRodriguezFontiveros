@@ -1,6 +1,10 @@
 <h1 align="center"><b>Hi , I'm Javi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>  
 
-![banner](banner.png)
+<div style="text-align: center;">
+  <a target="_blank">
+    <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </a>
+</div>
 
 ## About me:
 
@@ -10,9 +14,8 @@ With motivation to face complex challenges, such as those presented by Kaggle co
 
 Focus on constantly generating value, both in daily and weekly tasks, by identifying key patterns and collaborating on initiatives with tangible impact. 🔍💡
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
+
 
 ## Kaggle Badges:
 ![banner](Kaggle/badges.png)
