@@ -4,6 +4,12 @@
 
 ![banner](Kaggle/badges.png)
 
+![banner](TheBridge/agile.png)
+![banner](TheBridge/analyst.png)
+![banner](TheBridge/datascientist.png)
+![banner](TheBridge/deeplearning.png)
+![banner](TheBridge/eda.png)
+
 !--
 **JavierRodriguezFontiveros/JavierRodriguezFontiveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
