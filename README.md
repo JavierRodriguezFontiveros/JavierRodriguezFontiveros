@@ -31,6 +31,10 @@
 ## Proyectos:
 
 [![Chef Agent](https://img.shields.io/badge/Chef%20Agent-green?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/GEN_IA_CHEF_AGENT)
+
+[![Chat Bot](https://img.shields.io/badge/Chef%20Agent-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)
+
+
 !--
 **JavierRodriguezFontiveros/JavierRodriguezFontiveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
