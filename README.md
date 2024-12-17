@@ -5,6 +5,8 @@
 ![banner](Kaggle/badges.png)
 
 ![Static Badge](https://img.shields.io/badge/Proyecto%201)
+![Build Status](https://img.shields.io/github/actions/workflow/status/usuario/repositorio/main.yml?branch=main)
+
 
 ![agile](TheBridge/agile.png)
 ![analyst](TheBridge/analyst.png)
