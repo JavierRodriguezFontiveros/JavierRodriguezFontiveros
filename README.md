@@ -1,9 +1,17 @@
 ![banner](banner.png)
 
-# Kaggle Badges:
+## About me:
+
+Passionate about transforming data into practical solutions and clear strategies. ✨
+
+With motivation to face complex challenges, such as those presented by Kaggle competitions, where skills are tested and new techniques are acquired. 🚀
+
+Focus on constantly generating value, both in daily and weekly tasks, by identifying key patterns and collaborating on initiatives with tangible impact. 🔍💡
+
+## Kaggle Badges:
 ![banner](Kaggle/badges.png)
 
-# The Bridge DataScience Bootcamp's Badges:
+## The Bridge DataScience Bootcamp's Badges:
 ![agile](TheBridge/agile.png)
 ![analyst](TheBridge/analyst.png)
 ![dt](TheBridge/datascientist.png)
@@ -34,6 +42,7 @@
 [![Hundir La Flota](https://img.shields.io/badge/Hundir%20La%20Flota-orange?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/Hundir_La_Flota)
 
 ## Lenguajes
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierRodriguezFontiveros&layout=compact">
 
 
 ## Bibliotecas de Python
