@@ -28,12 +28,18 @@
 [![Chef Agent](https://img.shields.io/badge/Chef%20Agent-green?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/GEN_IA_CHEF_AGENT)
 [![Chat Bot](https://img.shields.io/badge/Chat%20Bot-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/kgl_competitions_ML)
-[![Chat Bot](https://img.shields.io/badge/Chat%20Bot-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)
-[![Chat Bot](https://img.shields.io/badge/Chat%20Bot-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)
-[![Chat Bot](https://img.shields.io/badge/Chat%20Bot-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)
+[![UFC ML](https://img.shields.io/badge/UFC%20ML-red?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/UFC_ML)
+[![SQLite](https://img.shields.io/badge/SQLite-brown?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/SQLite)
+[![UFC EDA](https://img.shields.io/badge/UFC%20EDA-yellow?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/UFC_EDA)
+[![Hundir La Flota](https://img.shields.io/badge/Hundir%20La%20Flota-orange?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/Hundir_La_Flota)
+
+## Lenguajes
+
+
+## Bibliotecas de Python
+
 
 ## Tecnologías Usadas:
-
 
 !--
 **JavierRodriguezFontiveros/JavierRodriguezFontiveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
