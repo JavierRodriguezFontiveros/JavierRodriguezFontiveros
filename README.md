@@ -8,7 +8,7 @@
 
 
 
-# The Bridge DataScience Bootcamp:
+# The Bridge DataScience Bootcamp's Badges:
 ![agile](TheBridge/agile.png)
 ![analyst](TheBridge/analyst.png)
 ![dt](TheBridge/datascientist.png)
