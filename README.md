@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-
 ![banner](banner.png)
-<!--
+
+!--
 **JavierRodriguezFontiveros/JavierRodriguezFontiveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
 
 (explicar cada uno de los proyectos)
