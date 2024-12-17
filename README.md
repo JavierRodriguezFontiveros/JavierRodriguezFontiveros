@@ -1,10 +1,11 @@
 <h1 align="center"><b>Hi , I'm Javi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>  
 
-<div style="text-align: center;">
+<p align="center">
   <a target="_blank">
     <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   </a>
-</div>
+</p>
+
 
 
 
