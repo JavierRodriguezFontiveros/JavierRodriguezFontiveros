@@ -4,6 +4,8 @@
 
 ![banner](Kaggle/badges.png)
 
+![Static Badge](https://img.shields.io/badge/Proyecto%201)
+
 ![agile](TheBridge/agile.png)
 ![analyst](TheBridge/analyst.png)
 ![dt](TheBridge/datascientist.png)
