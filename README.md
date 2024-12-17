@@ -5,7 +5,8 @@
 ![banner](Kaggle/badges.png)
 
 ![Static Badge](https://img.shields.io/badge/Proyecto%201)
-![Build Status](https://img.shields.io/github/actions/workflow/status/usuario/repositorio/main.yml?branch=main)
+[![Chef Agent](https://img.shields.io/badge/Chef%20Agent-blue?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/GEN_IA_CHEF_AGENT)
+
 
 
 ![agile](TheBridge/agile.png)
