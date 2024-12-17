@@ -7,6 +7,7 @@
 </div>
 
 
+
 ## About me:
 
 Passionate about transforming data into practical solutions and clear strategies. ✨
