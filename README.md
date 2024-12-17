@@ -10,6 +10,10 @@ With motivation to face complex challenges, such as those presented by Kaggle co
 
 Focus on constantly generating value, both in daily and weekly tasks, by identifying key patterns and collaborating on initiatives with tangible impact. 🔍💡
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 ## Kaggle Badges:
 ![banner](Kaggle/badges.png)
 
@@ -43,12 +47,16 @@ Focus on constantly generating value, both in daily and weekly tasks, by identif
 [![UFC EDA](https://img.shields.io/badge/UFC%20EDA-yellow?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/UFC_EDA)
 [![Hundir La Flota](https://img.shields.io/badge/Hundir%20La%20Flota-orange?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/Hundir_La_Flota)
 
-## Lenguajes
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierRodriguezFontiveros&layout=compact">
 
 
-## Bibliotecas de Python
-
+## ¿How to contact me?
+-correo: javierrodriguezfontiveros@gmail.com
+-linkedin
+-github
+-kaggle
+-dockerhub
 
 ## Tecnologías Usadas:
 
