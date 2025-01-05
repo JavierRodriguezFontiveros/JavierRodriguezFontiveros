@@ -17,7 +17,23 @@ With motivation to face complex challenges, such as those presented by Kaggle co
 
 Focus on constantly generating value, both in daily and weekly tasks, by identifying key patterns and collaborating on initiatives with tangible impact. 🔍💡
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierRodriguezFontiveros&layout=compact">
+</div>
 
+
+## Repositories:
+[![Chat Bot](https://img.shields.io/badge/Chat%20Bot-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)   
+**Backend of the VIH360 Chatbot:** Generative AI-powered assistant providing information and guidance on **HIV/AIDS** with an inclusive and accessible approach. It uses a decision tree, Gemini and Google Maps APIs, and ensures privacy with anonymous statistical data. Deployed on Render with a PostgreSQL database hosted on **AWS**.
+
+[![Chef Agent](https://img.shields.io/badge/Chef%20Agent-green?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/GEN_IA_CHEF_AGENT)   
+**Chef Virtual - Intelligent Cooking API:** A FastAPI-based solution that helps users generate recipes, convert measurements, suggest seasonal meals, and solve cooking problems. It leverages Hugging Face NLP models for smart recommendations and integrates with MySQL for data storage. Easily deployable via Docker for seamless setup.
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/kgl_competitions_ML)
+[![UFC ML](https://img.shields.io/badge/UFC%20ML-red?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/UFC_ML)
+[![SQLite](https://img.shields.io/badge/SQLite-brown?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/SQLite)
+[![UFC EDA](https://img.shields.io/badge/UFC%20EDA-yellow?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/UFC_EDA)
+[![Hundir La Flota](https://img.shields.io/badge/Hundir%20La%20Flota-orange?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/Hundir_La_Flota)
 
 
 ## Kaggle Badges:
@@ -43,15 +59,7 @@ Focus on constantly generating value, both in daily and weekly tasks, by identif
 ![visual](TheBridge/visualization.png)
 ![wr](TheBridge/wrangling.png)
 
-## Repositorios:
 
-[![Chef Agent](https://img.shields.io/badge/Chef%20Agent-green?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/GEN_IA_CHEF_AGENT)
-[![Chat Bot](https://img.shields.io/badge/Chat%20Bot-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/kgl_competitions_ML)
-[![UFC ML](https://img.shields.io/badge/UFC%20ML-red?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/UFC_ML)
-[![SQLite](https://img.shields.io/badge/SQLite-brown?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/SQLite)
-[![UFC EDA](https://img.shields.io/badge/UFC%20EDA-yellow?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/UFC_EDA)
-[![Hundir La Flota](https://img.shields.io/badge/Hundir%20La%20Flota-orange?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/Hundir_La_Flota)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierRodriguezFontiveros&layout=compact">
