@@ -42,6 +42,9 @@ Focus on constantly generating value, both in daily and weekly tasks, by identif
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/kgl_competitions_ML)   
 **Kaggle Competitions repository:** In this space, you will find various folders containing the code and documentation of the model-building process for the Kaggle competitions I have participated in. These are generally completed with Python code and various ML libraries. Additionally, it includes completed courses from the Kaggle platform.
 
+[![Kaggle](https://img.shields.io/badge/NUWE-006400?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/NUWE)    
+**Hackathons and Challenges:** This is a platform where I complete challenges and actively participate in hackathons for large companies. It includes various projects and challenges I’ve worked on, showcasing my skills in coding and problem-solving.
+
 ## The Bridge DataScience Bootcamp's Badges:
 ![agile](TheBridge/agile.png)
 ![analyst](TheBridge/analyst.png)
