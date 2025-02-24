@@ -21,6 +21,10 @@ Focus on constantly generating value, both in daily and weekly tasks, by identif
 
 
 ## Repositories:
+
+[![NUWE](https://img.shields.io/badge/NUWE-006400?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/NUWE)    
+**Hackathons and Challenges:** This is a platform where I complete challenges and actively participate in hackathons for large companies. It includes various projects and challenges I’ve worked on, showcasing my skills in coding and problem-solving.
+
 [![Chat Bot](https://img.shields.io/badge/Chat%20Bot-pink?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/FELGTBI_plus)   
 **Backend of the VIH360 Chatbot:** Generative AI-powered assistant providing information and guidance on **HIV/AIDS** with an inclusive and accessible approach. It uses a decision tree, Gemini and Google Maps APIs, and ensures privacy with anonymous statistical data. Deployed on Render with a PostgreSQL database hosted on **AWS**.
 
@@ -41,9 +45,6 @@ Focus on constantly generating value, both in daily and weekly tasks, by identif
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/kgl_competitions_ML)   
 **Kaggle Competitions repository:** In this space, you will find various folders containing the code and documentation of the model-building process for the Kaggle competitions I have participated in. These are generally completed with Python code and various ML libraries. Additionally, it includes completed courses from the Kaggle platform.
-
-[![Kaggle](https://img.shields.io/badge/NUWE-006400?style=for-the-badge)](https://github.com/JavierRodriguezFontiveros/NUWE)    
-**Hackathons and Challenges:** This is a platform where I complete challenges and actively participate in hackathons for large companies. It includes various projects and challenges I’ve worked on, showcasing my skills in coding and problem-solving.
 
 ## The Bridge DataScience Bootcamp's Badges:
 ![agile](TheBridge/agile.png)
