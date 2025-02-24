@@ -67,7 +67,7 @@ Focus on constantly generating value, both in daily and weekly tasks, by identif
 ![wr](TheBridge/wrangling.png)
 
 ## Kaggle Badges:
-![banner](Kaggle/badges.png)
+![banner](Kaggle/badgess.PNG)
 
 
 
